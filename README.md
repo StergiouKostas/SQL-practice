@@ -47,22 +47,6 @@ All queries are written as `.sql` files and executed in PostgreSQL.
 
 ---
 
-## 📂 Repository Structure
-
-The repository is organized by topic, following the structure of the course:
-
-SQL_Bootcamp/
-├── basics/
-├── filtering/
-├── joins/
-├── subqueries/
-├── functions/
-└── challenges/
-
-Each folder contains SQL scripts with examples and exercises.
-
----
-
 ## 🚀 Goal of This Repository
 
 The purpose of this repository is:
